@@ -26,8 +26,8 @@ A modern e-commerce platform built with React, TypeScript, and TailwindCSS.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/zetheon.git
-cd zetheon
+git clone https://github.com/princenyamadi/Z-theon.git
+cd Z-theon
 ```
 
 2. Install dependencies:
