@@ -38,3 +38,5 @@ yarn-error.log*
 
 # Vite
 .vite/
+.cursorindexingignore
+.specstory/*
